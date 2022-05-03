@@ -1,0 +1,74 @@
+{
+  "contractName": "MyContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.13+commit.abaa5c0e\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/MyContract.sol\":\"MyContract\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/MyContract.sol\":{\"keccak256\":\"0x776dc6ac44f21eb17acbe16bbecf5b9b2cb119561bd121e376c790c05740f33e\",\"urls\":[\"bzz-raw://9b712eeb042bbe80a28a6858a07d2b4aa40eecfc79c4ac03fc4342142663ba4b\",\"dweb:/ipfs/QmfG9N1ghSip3s8UQ5JPohnNHe73jqxwP2wWUvE9H4KR5c\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220abff9eec41017f2bcf27d07825cc9643021dad10d90857dd471073316be5748364736f6c634300080d0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220abff9eec41017f2bcf27d07825cc9643021dad10d90857dd471073316be5748364736f6c634300080d0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "27:26:1:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "27:26:1:-:0;;;;;",
+  "source": "pragma solidity ^0.8.0;\r\n\r\ncontract MyContract {\r\n\r\n}",
+  "sourcePath": "C:\\Users\\angel\\OneDrive\\Desktop\\boolean\\09)SOLIDITY\\01) prova\\contracts\\MyContract.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/MyContract.sol",
+    "exportedSymbols": {
+      "MyContract": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "MyContract",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "MyContract",
+        "nameLocation": "36:10:1",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "27:26:1",
+        "usedErrors": []
+      }
+    ],
+    "src": "0:53:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.13+commit.abaa5c0e.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.7",
+  "updatedAt": "2022-05-03T10:36:15.591Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
